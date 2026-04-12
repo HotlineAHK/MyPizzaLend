@@ -18,6 +18,6 @@ namespace PizzaLend
 
     static class Varibales
     {
-        static public string filePath = @"C:\Users\Admin\source\repos\PizzaLend\PizzaLend\users.db";
+        static public string filePath = @"users.db";
     }
 }
